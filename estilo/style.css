@@ -91,7 +91,7 @@ section.imagem p {
 }
 
 section#img01 {
-    background-image: url('../imagens/background001.jpg');
+    background-image: url('.../imagens/background001.jpg');
     background-attachment: fixed; /* efeito parallax */
     background-position: top center; box-shadow: inset 10px 1px 50px 0px rgba(186, 218, 7, 0.355);
     
@@ -103,7 +103,7 @@ section#img01 p {
 }
 
 section#img02 {
-    background-image: url('../imagens/background002.jpg');
+    background-image: url('imagens/background002.jpg');
     background-attachment: fixed; 
 }
 
